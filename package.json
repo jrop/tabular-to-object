@@ -1,0 +1,19 @@
+{
+  "name": "tabular-to-object",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "pkgbuild && node lib/test.js",
+    "prepublish": "npm test",
+    "pkg://main": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.8",
+    "pkgbuild": "^0.0.4"
+  },
+  "repository": "jrop/tabular-to-object"
+}

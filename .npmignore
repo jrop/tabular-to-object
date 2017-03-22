@@ -1,0 +1,7 @@
+/.vscode/
+/lib/*.map
+/src/
+.editorconfig
+.gitignore
+tsconfig.json
+*.tgz
