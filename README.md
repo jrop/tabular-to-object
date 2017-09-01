@@ -1,5 +1,7 @@
 # tabular-to-object
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jrop/tabular-to-object.svg)](https://greenkeeper.io/)
+
 Convert tabular arrays to associative Objects
 
 ## Installation
